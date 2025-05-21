@@ -11,10 +11,10 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from cpmelsedev import CPMElsedev
+from boom import BOom
 
-__CHANNEL_USERNAME__ = "elsedevchannel"
-__GROUP_USERNAME__   = "elsedevchat"
+__CHANNEL_USERNAME__ = "1177"
+__GROUP_USERNAME__   = "1177chat"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
